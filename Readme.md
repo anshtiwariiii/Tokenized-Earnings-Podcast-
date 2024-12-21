@@ -5,6 +5,8 @@ TokenizedEarningsPodcast is a smart contract solution that enables podcast creat
 
 ## Contract Address
 0x959Dc8Bbcf7711a907a7Ea11F437e1a9FA28A60f
+<img width="798" alt="{613FE104-07E8-4A1F-8B4A-D7AAD5E7E514}" src="https://github.com/user-attachments/assets/c58b01fd-584c-4c1b-93de-23b7b932eb19" />
+
 
 ## Project Vision
 Our vision is to transform podcast monetization by providing creators with a blockchain-based solution to manage and tokenize their earnings. We aim to:
